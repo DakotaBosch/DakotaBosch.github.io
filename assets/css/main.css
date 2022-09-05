@@ -252,7 +252,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(212, 212, 255, 0.035);
+		background: rgba(255, 255, 255, 0.035);
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -1912,7 +1912,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(212, 212, 255, 0.035);
+		background: rgba(247, 246, 246, 0.035);
 		border: none;
 		border-radius: 0;
 		color: inherit;
@@ -2440,7 +2440,6 @@ input, select, textarea {
 
 	table {
 		margin: 0 0 2em 0;
-		width: 100%;
 	}
 
 		table tbody tr {
